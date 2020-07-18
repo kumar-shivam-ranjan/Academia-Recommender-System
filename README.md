@@ -24,6 +24,7 @@ items.
 * Rest API
 * Google FireBase Authentication 
 
+
 ## Features
 What makes your project stand out?
 * Login and Registration UI for ensuring authentication
