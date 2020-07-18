@@ -1,0 +1,117 @@
+By TF-IDF
+ABSTRACT Summary: 
+ Automatic recommendation of citations for a manuscript is
+highly valuable for scholarly activities since it can substantially improve the efficiency and quality of literature search.The prior techniques placed a considerable burden on users,
+who were required to provide a representative bibliography
+or to mark passages where citations are needed.In this
+paper we present a system that considerably reduces this
+burden: a user simply inputs a query manuscript (without
+a bibliography) and our system automatically finds locations where citations are needed.
+	Original abstract : 1163 chars
+	Reduced Size : 558 chars
+	compression ratio : 0.5202
+
+By LDA
+ABSTRACT Summary: 
+ In this
+paper we present a system that considerably reduces this
+burden: a user simply inputs a query manuscript (without
+a bibliography) and our system automatically finds locations where citations are needed.We produce a successful approach by carefully examining the relevance between segments in a query
+manuscript and the representative segments extracted from
+a document corpus.
+	Original abstract : 1163 chars
+	Reduced Size : 384 chars
+	compression ratio : 0.6698
+
+By TF-IDF
+INTRODUCTION Summary: 
+ One niche in online search is a literature search of academic papers.What we would like is a
+system that can automatically recommend citations for a
+Permission to make digital or hard copies of all or part of this work for
+personal or classroom use is granted without fee provided that copies are
+not made or distributed for profit or commercial advantage and that copies
+bear this notice and the full citation on the first page.Such a citation recommendation system
+can substantially improve both the effectiveness and efficiency of literature search.In this paper we present a system that takes a manuscript
+(referred to as the query manuscript) as input and automatically identifies where citations are needed and provides
+a list of candidate documents to be cited.Unlike previous
+work [15, 26, 24, 31, 25, 9], we do not require that the authors of the query manuscript provide the system with a
+partial but representative bibliography and we also do not
+require them to identify locations where a citation is needed.Thus we seek to minimize the users’ burden in performing a
+literature search.Thus our goal is to automatically analyze a manuscript lacking a bibliography and to
+suggest locations where citations are needed.These locations (and the words surrounding them) can also serve as
+explanations for why certain citations were recommended.When combined with the retrieval techniques developed in
+our earlier work [9], which take these candidate citation contexts as input, we can achieve a system that automatically
+recommends citations for a query manuscript and also identifies where citations should go.This places the least amount
+of burden on a user compared to other citation recommendation techniques.Technically, a citation context in a document d is a snippet of words surrounding a reference to another document
+d0 .In a query manuscript,
+a candidate citation context is a passage that seems to describe an idea already present in the literature (and thus
+in need of citation).Thus, the essence of our approach is
+to generate candidate citation contexts by properly comparing a query manuscript to millions of citation contexts that
+can be extracted from a large corpus of documents such as
+CiteSeerX.The comparisons
+(e.g., cosine similarity) between text in a query manuscript
+and citation contexts extracted from a document corpus produce unreliable results because individual citation contexts
+can contain a lot of noise.The full-text of a document in a corpus usually contains noise in the form of additional information that is irrelevant to the citation recommendation task; this frequently
+includes discussions of notation, experimental setups, etc.This makes retrieval
+based on full-text similarity very slow and error-prone.In
+contrast, we can think of citation contexts as the equivalent
+of a homogeneous segment of full-text that describes one
+idea.To the best of our knowledge, this is the first paper that
+seeks to identify candidate locations in a query manuscript
+where citations are needed, which is a challenging problem.We propose several techniques of increasing refinement to
+identify candidate citation contexts in a query manuscript.We produce a successful approach for finding candidate citation contexts in a query manuscript by carefully evaluating
+the relevance between passages in the query manuscript and
+citation contexts extracted from a document corpus.Moreover, our method considers the relationships between passages in the query manuscript to reduce the redundancy in
+candidate citation contexts.We discuss methods for generating candidate citation
+contexts in Section 4 and report the empirical evaluation in
+Section 5.
+	Original introduction : 5413 chars
+	Reduced Size : 3675 chars
+	compression ratio : 0.3214211158322557
+
+By LDA
+INTRODUCTION Summary: 
+ One niche in online search is a literature search of academic papers.A standard approach is to perform keyword
+searches to retrieve documents, manually review them, and
+then follow the chain of bibliographic citations.Copyright 200X ACM X-XXXXX-XX-X/XX/XX ...$10.00.For example, the system can
+bring up some literatures that the authors are not aware of.In this paper we present a system that takes a manuscript
+(referred to as the query manuscript) as input and automatically identifies where citations are needed and provides
+a list of candidate documents to be cited.Unlike previous
+work [15, 26, 24, 31, 25, 9], we do not require that the authors of the query manuscript provide the system with a
+partial but representative bibliography and we also do not
+require them to identify locations where a citation is needed.Thus our goal is to automatically analyze a manuscript lacking a bibliography and to
+suggest locations where citations are needed.When combined with the retrieval techniques developed in
+our earlier work [9], which take these candidate citation contexts as input, we can achieve a system that automatically
+recommends citations for a query manuscript and also identifies where citations should go.Technically, a citation context in a document d is a snippet of words surrounding a reference to another document
+d0 .Such a snippet can be a very accurate description of some
+of the ideas and contributions of d0 .In a query manuscript,
+a candidate citation context is a passage that seems to describe an idea already present in the literature (and thus
+in need of citation).The naı̈ve approaches do not work well.Abstracts are
+generally vague and, due to space constraints, do not adequately describe the contributions and techniques of a document.The full-text of a document in a corpus usually contains noise in the form of additional information that is irrelevant to the citation recommendation task; this frequently
+includes discussions of notation, experimental setups, etc.Thus the full-text would need to be segmented into homogeneous regions representing these ideas.This makes retrieval
+based on full-text similarity very slow and error-prone.In
+contrast, we can think of citation contexts as the equivalent
+of a homogeneous segment of full-text that describes one
+idea.Moreover, our method considers the relationships between passages in the query manuscript to reduce the redundancy in
+candidate citation contexts.The rest of this paper is organized as follows.
+	Original introduction : 5413 chars
+	Reduced Size : 2493 chars
+	compression ratio : 0.53945791612784036
+
+By TF-IDF
+CONCLUSION Summary: 
+ In this paper, we tackled the novel problem of automatically generating candidate citation contexts from the query
+manuscript to aid an academic literature search.We are incorporating this approach into citation context identification and citation recommendation in CiteSeerX and we conducted extensive experiments to evaluate the performance of our approach.
+	Original conclusion : 515 chars
+	Reduced Size : 359 chars
+	compression ratio : 0.3070873786407767
+
+By LDA
+CONCLUSION Summary: 
+ In this paper, we tackled the novel problem of automatically generating candidate citation contexts from the query
+manuscript to aid an academic literature search.Our approach used existing citation contexts as succinct descriptions of the contributions and ideas present in documents
+belonging to a large corpus.
+	Original conclusion : 515 chars
+	Reduced Size : 313 chars
+	compression ratio : 0.3977669902912621
+
