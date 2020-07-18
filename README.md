@@ -9,9 +9,12 @@ with android platform. Some challenges are common to all recommender systems res
 items.
 
 ## Screenshots
-<img src="Images/img11.jpeg" width="300" height="500"> <img src="Images/img9.jpeg" width="300" height="500">
-<img src="Images/i3.jpeg" width="300" height="500">    <img src="Images/i2.jpeg" width="300" height="500">
-<img src="Images/img1.jpeg" width="300" height="500">  <img src="Images/result.jpeg" width="300" height="500">
+ <img src="Images/img11.jpeg" width="300" height="500">
+ <img src="Images/img9.jpeg" width="300" height="500">
+ <img src="Images/i3.jpeg" width="300" height="500">    
+ <img src="Images/i2.jpeg" width="300" height="500">
+ <img src="Images/img1.jpeg" width="300" height="500">
+ <img src="Images/result.jpeg" width="300" height="500">
 
 ## Tech/framework used
 * Kotlin-android
