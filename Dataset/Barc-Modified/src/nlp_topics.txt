@@ -1,0 +1,21 @@
+Sentiment Analysis 
+Text Summarization
+Textual Entailment
+Information Extraction
+Topic Segmentation
+Question Answering
+Parsing
+Prediction
+Part of Speech Tagging
+Translation
+Query Expansion
+Argumentation Mining
+Interestingness
+Grammar Correction
+Web classification
+Speech Recognition
+Text Generation
+Text Similarity
+Plagiarism Detection
+Stemming
+Document Clustering
