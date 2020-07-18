@@ -1,0 +1,59 @@
+{
+  "title": "Bottleneck Routing Games in Communication Networks",
+  "top_papers": [
+    "Relieving The Data Acquisition Bottleneck In Word Sense Disambiguation( P04-1039 ) :1.03691374765068",
+    "Quasi-Indexical Reference In Propositional Semantic Networks( P84-1016 ) :1.0181490741472379",
+    "Domain Communication Knowledge( W90-0112 ) :0.983182404252346",
+    "Communication In Large Distributed AI Systems For Natural Language Processing( C96-1008 ) :0.959270300716551",
+    "Identifying Agreement And Disagreement In Conversational Speech: Use Of Bayesian Networks To Model Pragmatic Dependencies( P04-1085 ) :0.9544694392075631",
+    "Choosing The Word Most Typical In Context Using A Lexical Co-Occurrence Network( P97-1067 ) :0.9250603107373008",
+    "Tagging Of Speech Acts And Dialogue Games In Spanish Call Home( W99-0306 ) :0.9137270668080942",
+    "Lexical Discovery With An Enriched Semantic Network( W98-0719 ) :0.8967117691015299",
+    "Discriminative Training Of A Neural Network Statistical Parser( P04-1013 ) :0.878108518413072",
+    "Part of Speech Tagging Using a Network of Linear Separators( P98-2186 ) :0.8472350611349724"
+  ],
+  "top_authors": [
+    "David : 13.303361338067173",
+    "Dan : 12.760944426382684",
+    "Michael : 12.76006324814022",
+    "Daniel : 11.166144125821749",
+    "John : 9.988191663910632",
+    "Mark : 8.983908808679619",
+    "Zhang : 8.028110846291394",
+    "Chris : 7.9655110076737055",
+    "Liu : 7.413987018956048",
+    "Li : 7.350504687706237"
+  ],
+  "top_confrences": [
+    "Annual Meeting Of The Association For Computational Linguistics : 28.769183769775772",
+    "International Conference On Computational Linguistics : 20.996568915024355",
+    "EMNLP : 10.64957870194285",
+    "Workshop On Speech And Natural Language : 8.509800345742285",
+    "Conference Of The European Association For Computational Linguistics : 7.341522837534326",
+    "Conference On Empirical Methods In Natural Language Processing : 6.564873656314803",
+    "ACL : 5.929595384524692",
+    "International Conference On Computational Linguistics And Annual Meeting Of The Association For Computational Linguistics : 5.344434361401207",
+    "COLING-ACL : 4.636506878736731",
+    "Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies : 4.1608989196276065"
+  ],
+  "active_areas": [
+    "Parsing : 78.79450991392049",
+    "Part of Speech Tagging : 71.09152909637376",
+    "Translation : 43.27940905493136",
+    "Information Extraction : 34.957500342138076",
+    "Text Generation : 21.625941243174722",
+    "Grammar Correction : 20.51004244988459"
+  ],
+  "top_tags": [
+    "use : 32372.058996474454",
+    "abstract : 32170.023371949774",
+    "base : 26962.719932455482",
+    "paper : 26586.723407678946",
+    "languag : 23947.02169427546",
+    "result : 23390.230359667723",
+    "present : 22376.42370101957",
+    "word : 21595.61147369612",
+    "set : 19966.262349170556",
+    "model : 19906.060886512045"
+  ]
+}
