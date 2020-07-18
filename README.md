@@ -10,7 +10,7 @@ with android platform. Some challenges are common to all recommender systems res
 items.
 
 ## Screenshots
-![img11](https://user-images.githubusercontent.com/42781233/87848117-cb839980-c8fa-11ea-9aeb-897880e1e523.jpeg)
+![img11](https://user-images.githubusercontent.com/42781233/87848117-cb839980-c8fa-11ea-9aeb-897880e1e523.jpeg|width=50)
 
 ![i2](https://user-images.githubusercontent.com/42781233/87848172-33d27b00-c8fb-11ea-81b6-c6af17732a05.jpeg)
 
