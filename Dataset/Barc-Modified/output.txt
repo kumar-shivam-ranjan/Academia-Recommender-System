@@ -1,0 +1,107 @@
+For Title : Chinese unknown word identification as known word tagging
+Abstract : This work presents a tagging approach to Chinese unknown word identification based on lexicalized hidden Markov models (LHMMs). In this work, Chinese unknown word identification is represented as a tagging task on a sequence of known words by introducing word-formation patterns and part-of-speech. Based on the lexicalized HMMs, a statistical tagger is further developed to assign each known word an appropriate tag that indicates its pattern in forming a word and the part-of-speech of the formed word. The experimental results on the Peking University corpus indicate that the use of lexicalization technique and the introduction of part-of-speech are helpful to unknown word identification. The experiment on the SIGHAN-PK open test data also shows that our system can achieve state-of-art performance.
+top papers : 
+	0. Chinese Unknown Word Identification Using Character-Based Tagging And Chunking( P03-2039 )
+	1. Chinese Word Segmentation As LMR Tagging( W03-1728 )
+	2. A Chinese Efficient Analyser Integrating Word Segmentation Part-Of-Speech Tagging Partial Parsing And Full Parsing( W03-1711 )
+	3. Statistically-Enhanced New Word Identification In A Rule-Based Chinese System( W00-1207 )
+	4. Unknown Word Extraction For Chinese Documents( C02-1049 )
+	5. Automatic Adaptation of Annotation Standards: Chinese Word Segmentation and POS Tagging &#x2013; A Case Study( P09-1059 )
+	6. Adaptive Chinese Word Segmentation( P04-1059 )
+	7. Word Identification For Mandarin Chinese Sentences( C92-1019 )
+	8. Combining Classifiers For Chinese Word Segmentation( W02-1815 )
+	9. A Discriminative Latent Variable Chinese Segmenter with Hybrid Word/Character Information( N09-1007 )
+	10. Chinese Word Segmentation With Maximum Entropy And N-Gram Language Model( W06-0121 )
+	11. Simple Features For Chinese Word Sense Disambiguation( C02-1143 )
+	12. Chinese And Japanese Word Segmentation Using Word-Level And Character-Level Information( C04-1067 )
+	13. A Stacked Sub-Word Model for Joint Chinese Word Segmentation and Part-of-Speech Tagging( P11-1139 )
+	14. Do We Need Chinese Word Segmentation For Statistical Machine Translation?( W04-1118 )
+	15. Chinese Word Segmentation In MSR-NLP( W03-1727 )
+	16. Identification and Resolution of Chinese Zero Pronouns: A Machine Learning Approach( D07-1057 )
+	17. Chinese Word Segmentation Using Minimal Linguistic Knowledge( W03-1721 )
+	18. Enhancing Chinese Word Segmentation Using Unlabeled Data( D11-1090 )
+	19. A Fast Decoder for Joint Word Segmentation and POS-Tagging Using a Single Discriminative Model( D10-1082 )
+	20. Chinese Segmentation And New Word Detection Using Conditional Random Fields( C04-1081 )
+	21. Bayesian Semi-Supervised Chinese Word Segmentation for Statistical Machine Translation( C08-1128 )
+	22. Automatic Identification Of Infrequent Word Senses( C04-1177 )
+	23. Integrating Word Boundary Identification With Sentence Understanding( P93-1046 )
+	24. A Maximum Entropy Approach to Chinese Word Segmentation( I05-3025 )
+	25. Chinese Word Segmentation without Using Lexicon and Hand-crafted Training Data( P98-2206 )
+	26. An Empirical Comparison of Goodness Measures for Unsupervised Chinese Word Segmentation with a Unified Framework( I08-1002 )
+	27. Morphological features help POS tagging of unknown words across language varieties( I05-3005 )
+	28. Recognizing Unregistered Names For Mandarin Word Identification( C92-4199 )
+	29. Lattice-Based Word Identification In CLARE( P92-1021 )
+	30. Optimizing Chinese Word Segmentation for Machine Translation Performance( W08-0336 )
+	31. Subword-Based Tagging By Conditional Random Fields For Chinese Word Segmentation( N06-2049 )
+	32. Incremental Joint Approach to Word Segmentation, POS Tagging, and Dependency Parsing in Chinese( P12-1110 )
+	33. Generalized Unknown Morpheme Guessing For Hybrid POS Tagging Of Korean( W98-1110 )
+	34. Augmenting A Hidden Markov Model For Phrase-Dependent Word Tagging( H89-2014 )
+	35. A Cascaded Linear Model for Joint Chinese Word Segmentation and Part-of-Speech Tagging( P08-1102 )
+	36. Chinese Segmentation with a Word-Based Perceptron Algorithm( P07-1106 )
+	37. An Error-Driven Word-Character Hybrid Model for Joint Chinese Word Segmentation and POS Tagging( P09-1058 )
+	38. Parsing the Internal Structure of Words: A New Paradigm for Chinese Word Segmentation( P11-1141 )
+	39. Automatic Identification Of Word Translations From Unrelated English And German Corpora( P99-1067 )
+	40. CSeg&Tag1.0: A Practical Word Segmenter And POS Tagger For Chinese Texts( A97-1018 )
+	41. A Hybrid Approach to Word Segmentation and POS Tagging( P07-2055 )
+	42. Word Lattice Reranking for Chinese Word Segmentation and Part-of-Speech Tagging( C08-1049 )
+	43. Extraction Of Chinese Compound Words - An Experimental Study On A Very Large Corpus( W00-1219 )
+	44. Joint Word Segmentation and POS Tagging Using a Single Perceptron( P08-1101 )
+	45. Chinese Part-Of-Speech Tagging: One-At-A-Time Or All-At-Once? Word-Based Or Character-Based?( W04-3236 )
+	46. Automatic Recognition Of Chinese Unknown Words Based On Roles Tagging( W02-1817 )
+	47. A Kernel PCA Method For Superior Word Sense Disambiguation( P04-1081 )
+	48. The Unknown Word Problem: A Morphological Analysis Of Japanese Using Maximum Entropy Aided By A Dictionary( W01-0512 )
+	49. Using Word Class For Part-Of-Speech Disambiguation( W96-0101 )
+	50. Improved Source-Channel Models For Chinese Word Segmentation( P03-1035 )
+	51. Acquisition Of English-Chinese Transliterated Word Pairs From Parallel-Aligned Texts Using A Statistical Machine Transliteration Model( W03-0317 )
+	52. SemEval-2010 Task 17: All-Words Word Sense Disambiguation on a Specific Domain( S10-1013 )
+	53. Computing Word Similarity And Identifying Cognates With Pair Hidden Markov Models( W05-0606 )
+	54. A Stochastic Process For Word Frequency Distributions( P91-1035 )
+	55. Choosing The Word Most Typical In Context Using A Lexical Co-Occurrence Network( P97-1067 )
+	56. Improved Part-of-Speech Tagging for Online Conversational Text with Word Clusters( N13-1039 )
+	57. Building A Sense Tagged Corpus With Open Mind Word Expert( W02-0817 )
+	58. A Word Reordering Model for Improved Machine Translation( D11-1045 )
+	59. A Classification Approach To Word Prediction( A00-2017 )
+top authors : 
+	0. Zhang
+	1. Sun
+	2. Liu
+	3. Huang
+	4. Wu
+	5. Xu
+	6. Qun
+	7. Jiang
+	8. Li
+	9. Jianfeng
+top conferences : 
+	0. International Conference On Computational Linguistics
+	1. Annual Meeting Of The Association For Computational Linguistics
+	2. SIGHAN Workshop On Chinese Language Processing
+	3. EMNLP
+	4. Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies
+	5. ACL-IJCNLP
+	6. Proceedings of the 9th SIGdial Workshop on Discourse and Dialogue
+	7. Proceedings of the Fourth SIGHAN Workshop on Chinese Language Processing
+	8. SIGDAT Conference On Empirical Methods In Natural Language Processing
+	9. Chinese Language Processing Workshop
+Active areas : 
+	0. Part of Speech Tagging
+	1. Query Expansion
+	2. Grammar Correction
+	3. Stemming
+	4. Text Generation
+	5. Argumentation Mining
+	6. Question Answering
+	7. Topic Segmentation
+	8. Interestingness
+	9. Textual Entailment
+	10. Information Extraction
+	11. Text Similarity
+	12. Web classification
+	13. Plagiarism Detection
+	14. Text Summarization
+	15. Speech Recognition
+	16. Sentiment Analysis 
+	17. Translation
+	18. Document Clustering
+	19. Parsing
+	20. Prediction
