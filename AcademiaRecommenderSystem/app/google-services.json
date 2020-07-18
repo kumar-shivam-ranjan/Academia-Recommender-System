@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "978268111390",
+    "firebase_url": "https://academia-recommender-sys-485ba.firebaseio.com",
+    "project_id": "academia-recommender-sys-485ba",
+    "storage_bucket": "academia-recommender-sys-485ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978268111390:android:5e5fe148e33f7489c7640f",
+        "android_client_info": {
+          "package_name": "com.example.academiarecommendersystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978268111390-o3nfhqragc9skrkk6reitgdbsh2fu7m5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4GlGgQe6uUt5cbxLXHyj_FWMYwgpL5cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978268111390-o3nfhqragc9skrkk6reitgdbsh2fu7m5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

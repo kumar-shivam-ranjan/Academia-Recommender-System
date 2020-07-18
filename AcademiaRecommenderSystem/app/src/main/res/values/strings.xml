@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Academia Recommender System</string>
+    <string name="academia_recommender_system">Academia Recommender System</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="already_registered_go_to_login">Already Registered? Go to Login</string>
+    <string name="register">REGISTER</string>
+    <string name="do_not_have_account_register_here">Do not have account? Register Here</string>
+    <string name="email">Email</string>
+    <string name="login">LOGIN</string>
+    <string name="go_to_main_menu">GO TO MAIN MENU</string>
+    <string name="welcome_to_academia_recommender_system">WELCOME TO ACADEMIA RECOMMENDER SYSTEM</string>
+    <string name="todo">TODO</string>
+    <string name="my_profile">My Profile</string>
+    <string name="search">Search</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="logout">Logout</string>
+    <string name="recommendations">Recommendations</string>
+    <string name="textview">TextView</string>
+    <string name="selected_item">Selected item</string>
+    <string name="show_recommendations">Show Recommendations</string>
+
+</resources>
