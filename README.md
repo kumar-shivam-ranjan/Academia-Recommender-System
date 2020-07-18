@@ -10,13 +10,7 @@ with android platform. Some challenges are common to all recommender systems res
 items.
 
 ## Screenshots
-![img11](https://user-images.githubusercontent.com/42781233/87848117-cb839980-c8fa-11ea-9aeb-897880e1e523.jpeg|width=50)
 
-![i2](https://user-images.githubusercontent.com/42781233/87848172-33d27b00-c8fb-11ea-81b6-c6af17732a05.jpeg)
-
-![img1](https://user-images.githubusercontent.com/42781233/87848181-451b8780-c8fb-11ea-87ed-a2d96b82f2b7.jpeg)
-
-![result](https://user-images.githubusercontent.com/42781233/87848182-477de180-c8fb-11ea-809b-68f3a7923a06.jpeg)
 
 ## Tech/framework used
 * Kotlin-android
