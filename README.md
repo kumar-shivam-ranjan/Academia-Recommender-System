@@ -1,6 +1,6 @@
 ## Academia-Recommender-System
-* This project depicts the integration of android application with Machine learning based recommender system algorithms connected to it backend.
-* The main goal of this project is to build a system, which aids a user in finding research paper,journals or articles of interest to her from the first use of the system, at which point the system does not know the user’s preferences. 
+* This project depicts the integration of android application with Machine learning based recommender system algorithms connected to its backend.
+* The main goal of this project is to build a system, which aids a user in finding research paper,journals or articles of interest to her from the first use of the system, at which point, the system does not know the user’s preferences. 
 * The system should also collect application consumption data to base future studies on and to recommend stuffs. The solution preferably consist of a recommender system and possibly other filtering solutions.
 
 ### Motivation
@@ -28,7 +28,7 @@ items.
 ## Features
 What makes your project stand out?
 * Login and Registration UI for ensuring authentication
-* Recommendation of top k news articles/research paper of journals according to user input(title and keyword)
+* Recommendation of top k news articles/research paper of journals according to user's input (title and keyword)
 * Dashboard Activity
 * Profile Activity
 * Result Activity
